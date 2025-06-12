@@ -4,5 +4,5 @@ seaborn==0.12.2
 numpy==1.24.4 
 streamlit==1.18.0
 opendatasets==0.1.22
-Python==3.12.1
+Python==3.11
 pip ==25.1.1
